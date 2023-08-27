@@ -1,0 +1,16 @@
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+**/.terraform/*
+crash.log
+*.tfstate
+*.log
+.terraform.lock.hcl
+**/archive/*.zip
+**/build/bootstrap
+*.tfvars
+
+.DS_STORE
